@@ -1,5 +1,5 @@
 # How to
-## Setting dark mode to Windows
+## Setting dark mode in Windows
 
 Step 1: Open settings
 
